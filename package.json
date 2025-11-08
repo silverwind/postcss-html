@@ -1,6 +1,6 @@
 {
-  "name": "postcss-html",
-  "version": "1.8.0",
+  "name": "@silverwind/postcss-html",
+  "version": "1.8.3",
   "publishConfig": {
     "access": "public"
   },
